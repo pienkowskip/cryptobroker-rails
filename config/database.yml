@@ -1,0 +1,18 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: cryptobroker
+  pool: 5
+  username: cryptobroker
+  password: FedyMuh6
+  host: localhost
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: dds3fltp2jdn34
+  pool: 5
+  username: wmqufpiqsswrmg
+  password: b0WMbbLu0u8toEpjyb94GQsW9z
+  host: ec2-54-246-101-76.eu-west-1.compute.amazonaws.com
+  port: 5432
